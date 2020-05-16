@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "yeelightcontroller-backend",
   "version": "0.0.1",
   "description": "Control your smart bulbs",
