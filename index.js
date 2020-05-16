@@ -1,3 +1,4 @@
+// Imports
 import NodeYeelight from "node-yeelight-wifi";
 
 const { Lookup, Yeelight } = NodeYeelight;
