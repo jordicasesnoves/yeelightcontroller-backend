@@ -1,0 +1,14 @@
+{
+  "name": "yeelightcontroller-backend",
+  "version": "0.0.1",
+  "description": "Control your smart bulbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordi Casesnoves",
+  "license": "MIT",
+  "dependencies": {
+    "node-yeelight-wifi": "^0.1.4"
+  }
+}
